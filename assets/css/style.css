@@ -463,11 +463,13 @@ h6 {
   margin-top: 30px;
   color: #fff;
   border: 2px solid #fff;
+  transition: 0.7s;
 }
 
 #hero .btn-get-started:hover {
   background: #fff;
   color: #5846f9;
+  
 }
 
 #hero .animated {
