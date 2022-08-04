@@ -533,7 +533,7 @@ h6 {
   }
 }
 
-@-webkit-keyframes up-down {
+/* @-webkit-keyframes up-down {
   0% {
     transform: translateY(10px);
   }
@@ -551,7 +551,7 @@ h6 {
   100% {
     transform: translateY(-10px);
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Sections General
