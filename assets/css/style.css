@@ -56,6 +56,19 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# added 
+--------------------------------------------------------------*/
+
+.connections{
+  outline: none;
+  background: linear-gradient(135deg, #ef18c4, #f68944, #ef2ec9, #f5794c, #f1395e);
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  /* font-size: 44px;
+  font-family: 'Kanit', sans-serif; */
+}
+/*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
 #preloader {
